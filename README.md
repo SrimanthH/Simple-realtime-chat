@@ -12,3 +12,5 @@ Tech Stack 🛠
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js with WebSocket support
 Real-Time Communication: WebSockets
+![edb5f818-9812-498e-b0e9-b422a58d8ffc](https://github.com/user-attachments/assets/7187fd78-f0e5-4cfc-9696-8bed89fdb474)
+![9bbdf1d0-ab6c-4822-a460-8d9cd5d89c0e](https://github.com/user-attachments/assets/ea6dfa8b-8f1a-4dc0-84f9-4865f778214f)
